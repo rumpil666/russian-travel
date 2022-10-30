@@ -1,0 +1,14 @@
+.places__link {
+  color: #FFF;
+  text-align: start;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 22px;
+  max-width: 456px;
+  margin: 0;
+  transition: 0.5s;
+}
+
+.places__link:hover {
+  opacity: 0.8;
+}

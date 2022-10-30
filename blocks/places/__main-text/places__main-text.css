@@ -1,0 +1,26 @@
+.places__main-text {
+  max-width: 484px;
+  gap: 26px;
+  margin: 0;
+  padding: 0;
+}
+
+@media screen and (max-width: 1124px) {
+  .places__main-text {
+    max-width: 456px;
+  }
+}
+
+@media screen and (max-width: 984px) {
+  .places__main-text {
+    max-width: 352px;
+    gap: 25px;
+  }
+}
+
+@media screen and (max-width: 568px) {
+  .places__main-text {
+    max-width: 288px;
+    padding: 0 16px;
+  }
+}

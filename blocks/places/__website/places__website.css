@@ -1,0 +1,19 @@
+.places__website {
+  max-width: 456px;
+  justify-self: start;
+  align-self: end;
+  gap: 12px;
+}
+
+@media screen and (max-width: 984px) {
+  .places__website {
+    max-width: 352px;
+  }
+}
+
+@media screen and (max-width: 568px) {
+  .places__website {
+    max-width: 288px;
+    padding: 0 16px;
+  }
+}
