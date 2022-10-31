@@ -1,4 +1,6 @@
 .photo-grid {
+  box-sizing: border-box;
+  max-width: 1184px;
   padding: 0;
   margin: 0 auto;
 }

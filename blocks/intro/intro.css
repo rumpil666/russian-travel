@@ -4,12 +4,13 @@
   justify-content: center;
   align-items: flex-start;
   box-sizing: border-box;
-  margin: 0 442px 0 148px;
+  max-width: 984px;
+  margin: 0 auto 0 11.56vw;
 }
 
 @media screen and (max-width: 1124px) {
   .intro {
-    margin: 0 286px 0 48px;
+    margin: 0 auto 0 4.69vw;
   }
 }
 
