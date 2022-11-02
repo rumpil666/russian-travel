@@ -1,4 +1,6 @@
 .places__main-text {
+  display: flex;
+  flex-direction: column;
   max-width: 484px;
   gap: 26px;
   margin: 0;

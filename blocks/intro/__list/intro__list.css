@@ -1,11 +1,12 @@
 .intro__list {
   color: #fff;
+  list-style: none;
   font-size: 12px;
   font-weight: 700;
   line-height: 18px;
   max-width: 690px;
   margin: 33px 0 0;
-  white-space: pre-line;
+  padding: 0;
 }
 
 @media screen and (max-width: 984px) {

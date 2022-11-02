@@ -1,5 +1,7 @@
 .places__website {
   max-width: 456px;
+  display: flex;
+  flex-direction: column;
   justify-self: start;
   align-self: end;
   gap: 12px;

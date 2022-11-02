@@ -1,27 +1,30 @@
 .intro {
   display: flex;
   flex-direction: column;
-  justify-content: center;
   align-items: flex-start;
   box-sizing: border-box;
   max-width: 984px;
-  margin: 0 auto 0 11.56vw;
+  width: 100%;
+  padding: 0 148px;
+  margin: 0;
 }
 
 @media screen and (max-width: 1124px) {
   .intro {
-    margin: 0 auto 0 4.69vw;
+    max-width: 690px;
+    padding: 0 48px;
   }
 }
 
 @media screen and (max-width: 984px) {
   .intro {
-    margin: 0 24px 0;
+    max-width: 720px;
+    padding: 0 24px;
   }
 }
 
 @media screen and (max-width: 568px) {
   .intro {
-    margin: 0 auto 0;
+    max-width: 288px;
   }
 }
