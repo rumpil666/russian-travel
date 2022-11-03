@@ -19,7 +19,7 @@
 @media screen and (max-width: 984px) {
   .photo-grid__list {
     max-width: 720px;
-    grid-template-columns: repeat(auto-fit, minmax(270px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
     gap: 16px;
   }
 }

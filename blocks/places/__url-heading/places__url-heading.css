@@ -13,9 +13,3 @@
     line-height: 12px;
   }
 }
-
-@media screen and (max-width: 568px) {
-  .places__url-heading {
-    line-height: 12px;
-  }
-}
